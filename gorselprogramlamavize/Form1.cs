@@ -1,10 +1,20 @@
 namespace gorselprogramlamavize
 {
-    public partial class Form1 : Form
+    public partial class uye_ekleme : Form
     {
-        public Form1()
+        public uye_ekleme()
         {
             InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uyeeklemebutonu_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
